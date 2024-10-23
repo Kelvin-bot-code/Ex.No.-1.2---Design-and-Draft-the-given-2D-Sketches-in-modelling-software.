@@ -37,6 +37,7 @@
 
  ## OUTPUT
  
- 
+![ex 1 2 kelvin](https://github.com/user-attachments/assets/b81dc018-26f5-49a5-a143-0b4712f554f9)
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
